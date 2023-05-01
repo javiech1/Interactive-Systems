@@ -1,0 +1,8 @@
+There is a folder on github for the project of the lab and a release on the releases folder.
+
+Additions:
+1. Hearts spawn when sheep get hit
+2. Add sound effects
+3. Keeping score and game over
+4. User Interface
+5. Title Buttons
